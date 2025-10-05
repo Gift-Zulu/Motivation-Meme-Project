@@ -1,0 +1,30 @@
+html{
+  background-color: black;
+}
+
+#st{
+  color: white;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+#par{
+  color: white;
+}
+
+#image{
+  height: 400px;
+  width: 500px;
+  border-color: white;
+  border: 5px solid white;
+}
+
+#motivational{
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 50px;
+}
+
